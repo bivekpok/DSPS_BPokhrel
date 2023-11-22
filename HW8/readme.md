@@ -21,6 +21,6 @@ This is another bad picture where the information is lost in the sense that the 
 ![before](https://github.com/bivekpok/DSPS_BPokhrel/assets/144483051/77b3f623-dc33-445d-a260-d4099f5bfa77)
 
 In this plot there are few points with very less frequency that are hard to read.
-![after](https://github.com/bivekpok/DSPS_BPokhrel/assets/144483051/4352587e-6794-40c2-be01-fe26d562b2f4)
+
 
 Afterward, I log plotted the y axis and it looked much better interms of readability and use of the space.
