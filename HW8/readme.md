@@ -16,11 +16,13 @@ This is another bad picture where the information is lost in the sense that the 
 
 
   These are my own plots:
+  
 
   
 ![before](https://github.com/bivekpok/DSPS_BPokhrel/assets/144483051/77b3f623-dc33-445d-a260-d4099f5bfa77)
 
 In this plot there are few points with very less frequency that are hard to read.
 
+![after](https://github.com/bivekpok/DSPS_BPokhrel/assets/144483051/7b5ce1f4-2ec2-4c74-b93c-b06fc664bf44)
 
 Afterward, I log plotted the y axis and it looked much better interms of readability and use of the space.
